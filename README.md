@@ -6,6 +6,9 @@ This is a current working script for running an automated workflow for identifyi
 
 2). Run OgmSFS analysis (a modified OptGenMix analysis using the site frequency spectrum to optimise site combination given site and individual parameters identified by the alleleproportion script)
 
+Note: 
+The OgmSFS analyses require multiple cores and need the server to run
+The current script limtis sites to 5 individuals per site, removing any sites with less than 5 individuals. This can be altered in the script, but it's recommended relatively equal samples per site are used.
 
 Things you can customise using the RRSpeciesParameters.csv spreadsheet (example attached)
 
