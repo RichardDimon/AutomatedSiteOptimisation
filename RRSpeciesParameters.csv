@@ -1,0 +1,12 @@
+species,dataset,topskip,nmetavar,analysis,max_missing,Run_OptSiteMix_minimum_Sites,Run_OptSiteMix_minimum_samples,threshold_maf,threshold_allele_prop,Run_forced_OptSiteMix,List_of_ForcedSites
+ArgyTrif,DArg23-8132,6,20,AllPopsWithNursery,0.2,yes,no,0.03,0.9,yes,"Nursery_Big Scrub FR,Nursery_Mt Nardi,Nursery_Johnsons Scrub,Nursery_Booyong NR,Nursery_Davis Scrub"
+ArgyTrif,DArg23-8132,6,20,BigScrubRegionPopsNoNursery,0.2,yes,no,0.03,0.9,no,
+ArgyTrif,DArg23-8132,6,20,BigScrubRegionPopsWithNursery,0.2,yes,no,0.03,0.9,yes,"Nursery_Big Scrub FR,Nursery_Mt Nardi,Nursery_Johnsons Scrub,Nursery_Booyong NR,Nursery_Davis Scrub"
+NeolDeal,DNeo23-8244,6,20,BigScrubGNPopsNOnursery,0.2,yes,no,0.03,0.9,no,
+NeolDeal,DNeo23-8244,6,20,BigScrubGNPopswithnursery,0.2,yes,no,0.03,0.9,yes,"nurseryplant Big Scrub FR,nurseryplant Booyong NR,nurseryplant Davis Scrub,nurseryplant Johnsons Scrub,nurseryplant Mt Nardi"
+NeolDeal,DNeo23-8244,6,20,BigScrubLocalRegionPopsNOnursery,0.2,yes,no,0.03,0.9,no,
+NeolDeal,DNeo23-8244,6,20,BigScrubLocalRegionPopswithnursery,0.2,yes,yes,0.03,0.9,yes,"nurseryplant Big Scrub FR,nurseryplant Booyong NR,nurseryplant Davis Scrub,nurseryplant Johnsons Scrub,nurseryplant Mt Nardi"
+DiplAust,DDip23-8149,6,20,NNSWCaldeMinusNursery,0.2,no,no,0.03,0.9,yes,
+DiplAust,DDip23-8149,6,20,NNSWCaldeWithNursery,0.2,yes,yes,0.03,0.9,yes,"Wilding_BigScrubFR,Wilding_BooyongNR,Wilding_JohnsonsScrub"
+DiplAust,DDip23-8149,6,20,BigScrubLocalRegionMinusNursery,0.2,yes,yes,0.03,0.9,yes,
+DiplAust,DDip23-8149,6,20,BigScrubLocalRegionWithNursery,0.2,yes,no,0.03,0.9,yes,"Wilding_BigScrubFR,Wilding_BooyongNR,Wilding_JohnsonsScrub"
